@@ -4,10 +4,8 @@
     <img src="https://img.shields.io/static/v1?label=Faculdade Senac Pelotas&message=3º&color=fdca40&labelColor=000000" alt="Faculdade Senac Pelotas">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/DioenDJS/Revenda_Herbie" >
 </p>
-
 <img src="imagemRevenda.png" alt="imagem do projeto" height="500" width="750" >
 
-- [deploy na Vercel]()
 
 
 ## Tecnologias Utilizadas no projeto :construction:
@@ -34,15 +32,21 @@ Ao final a aplicação estará disponível em `http://localhost:3000`.
 
 
 
-## Bootstrap utilizado no projeto :page_with_curl:
+## utilizado no projeto :page_with_curl:
 
 - [Bootstrap](https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css)
 
 inserir no head do index.html no diretório public
 ```
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
 ```
 
+- [FontAwesome](https://www.w3schools.com/bootstrap4/bootstrap_icons.asp)
+
+inserir no head do index.html no diretório public
+```
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" />
+```
 
 
 ## Dependências do Projetos :card_index_dividers:
